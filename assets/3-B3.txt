@@ -1,0 +1,162 @@
+EURCS502
+Computer Graphics
+S.Ravikanth
+Monday
+09:00-10:00
+--------------------
+EURCS503
+Unix Programming
+R.Venkateswarlu
+Monday
+10:00-10:50
+--------------------
+EURCS506
+COOT
+G.V.Pratap Singh
+Monday
+10:50-11:40
+--------------------
+EURCS504
+DBMS
+D.Devi Kalyani
+Monday
+11:40-12:30
+--------------------
+
+Personality Development
+N.Roshan
+Monday
+14:00-14:50
+--------------------
+EURCS501
+Data Communications
+C.Shanti
+Monday
+14:50-15:40
+--------------------
+EURCS505
+FLAT
+E.Neelima
+Monday
+15:40-16:30
+--------------------
+EURCS502
+Computer Graphics
+S.Ravikanth
+Tuesday
+09:00-10:00
+--------------------
+
+Personality Development
+N.Roshan
+Tuesday
+10:00-11:40
+--------------------
+EURCS505
+FLAT
+E.Neelima
+Tuesday
+11:40-12:30
+--------------------
+EURCS512
+DBMS LAB
+D.Devi Kalyani
+Tuesday
+14:00-16:30
+--------------------
+EURCS511
+Unix LAB
+R.Venkateswarlu
+Wednesday
+09:00-11:40
+--------------------
+EURCS502
+Computer Graphics
+S.Ravikanth
+Wednesday
+11:40-12:30
+--------------------
+EURCS503
+Unix Programming
+R.Venkateswarlu
+Wednesday
+14:00-14:50
+--------------------
+EURCS506
+COOT
+G.V.Pratap Singh
+Wednesday
+14:50-16:30
+--------------------
+EURCS505
+FLAT
+E.Neelima
+Thursday
+09:00-10:00
+--------------------
+EURCS503
+Unix Programming
+R.Venkateswarlu
+Thursday
+10:00-10:50
+--------------------
+EURCS504
+DBMS
+D.Devi Kalyani
+Thursday
+10:50-11:40
+--------------------
+EURCS501
+Data Communications
+C.Shanti
+Thursday
+11:40-12:30
+--------------------
+EURCS506
+COOT
+G.V.Pratap Singh
+Friday
+09:00-10:00
+--------------------
+EURCS501
+Data Communications
+C.Shanti
+Friday
+10:00-10:50
+--------------------
+EURCS504
+DBMS
+D.Devi Kalyani
+Friday
+10:50-11:40
+--------------------
+EURCS505
+FLAT
+E.Neelima
+Thursday
+11:40-12:30
+--------------------
+EURCS503
+Unix Programming
+R.Venkateswarlu
+Saturday
+09:00-10:00
+--------------------
+EURCS504
+DBMS
+D.Devi Kalyani
+Saturday
+10:00-10:50
+--------------------
+EURCS501
+Data Communications
+C.Shanti
+Saturday
+10:50-11:40
+--------------------
+EURCS502
+Computer Graphics
+S.Ravikanth
+Saturday
+11:40-12:30
+--------------------

@@ -1,0 +1,151 @@
+EURCS502
+Computer Graphics
+A. Sireesha
+Monday
+09:00-10:00
+--------------------
+EURCS505
+FLAT
+B. Sai Chandana
+Monday
+10:00-10:50
+--------------------
+EURCS501
+Data Communications
+R. Venkata Rao
+Monday
+10:50-11:40
+--------------------
+EURCS503
+UNIX
+G. Himabindu
+Monday
+11:40-12:30
+--------------------
+EURCS512
+DBMS LAB
+KVSRP Varma
+Monday
+14:00-16:30
+--------------------
+EURCS504
+DBMS
+KVSRP Varma
+Tuesday
+09:00-10:00
+--------------------
+Personality Development
+Random
+Tuesday
+10:00-10:50
+--------------------
+EURCS505
+FLAT
+B. Sai Chandana
+Tuesday
+10:50-11:40
+--------------------
+EURCS503
+UNIX
+G. Himabindu
+Tuesday
+11:40-12:30
+--------------------
+EURCS506
+COOT
+Sandeep Alanka
+Tuesday
+14:00-15:40
+--------------------
+EURCS501
+Data Communications
+R. Venkata Rao
+Tuesday
+15:40-16:30
+--------------------
+EURCS501
+Data Communications
+R. Venkata Rao
+Wednesday
+09:00-09:50
+--------------------
+Personality Development
+Random
+Wednesday
+10:00-11:40
+--------------------
+EURCS502
+Computer Graphics
+A. Sireesha
+Wednesday
+11:40-12:30
+--------------------
+EURCS506
+COOT
+Sandeep Alanka
+Wednesday
+14:00-14:50
+--------------------
+EURCS504
+DBMS
+KVSRP Varma
+Wednesday
+14:50-16:30
+--------------------
+EURCS511
+UNIX
+G. Himabindu
+Thursday
+09:00-11:40
+--------------------
+EURCS505
+FLAT
+B. Sai Chandana
+Thursday
+11:40-12:30
+--------------------
+EURCS511
+UNIX
+G. Himabindu
+Friday
+09:00-10:00
+--------------------
+EURCS504
+DBMS
+KVSRP Varma
+Friday
+10:00-10:50
+--------------------
+EURCS502
+Computer Graphics
+A. Sireesha
+Friday
+10:50-11:40
+--------------------
+EURCS501
+Data Communications
+R. Venkata Rao
+Friday
+11:40-12:30
+--------------------
+EURCS504
+DBMS
+KVSRP Varma
+Saturday
+09:00-10:00
+--------------------
+EURCS506
+COOT
+Sandeep Alanka
+10:00-10:50
+--------------------
+EURCS502
+Computer Graphics
+A. Sireesha
+10:50-11:40
+--------------------
+EURCS501
+Data Communications
+R. Venkata Rao
+11:40-12:30
+--------------------
